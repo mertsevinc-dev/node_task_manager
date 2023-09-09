@@ -1,0 +1,25 @@
+{
+  "name": "node_task_manager",
+  "version": "1.0.0",
+  "description": "task-manager with node.js - express - mongoose",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mertsevinc-dev/node_task_manager.git"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "mongoose",
+    "task-manager"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mertsevinc-dev/node_task_manager/issues"
+  },
+  "homepage": "https://github.com/mertsevinc-dev/node_task_manager#readme"
+}
