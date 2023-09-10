@@ -190,5 +190,3 @@ The following environment variables are required to run this project:
 - [Postman](https://www.postman.com/) - API development environment
 
 ## Authors
-
-- **Mert Sevinc** - [mertsevinc-dev](https://github.com/mertsevinc-dev)
